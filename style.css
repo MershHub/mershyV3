@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(0, 0, 97);
+    background-image: url(ant.png);
+    text-shadow: 2px 2px #0000007a;
+}
+div.whole {
+    background-image: url(vvdsb.jpg);
+   width: 600px;
+   height: 780px;
+   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.281);
+}
+div.banner {
+    background-image: url(banner.png);
+   width: 600px;
+   height: 100px;
+}
+div.buttons {
+    background-color: #25277e; 
+   width: 600px;
+   height: 50px;
+}
+div.content {
+    background-image: url(bggh.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+   width: 580px;
+   height: 525px;
+   margin-top: 10px;
+   border: 1px solid black;
+   overflow-y: scroll;
+}
+div.contentlink {
+    background-image: url(bggh.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+   width: 580px;
+   height: 525px;
+   margin-top: 10px;
+   border: 1px solid black;
+   overflow-y: scroll;
+}
+div.news {
+    overflow-y: scroll;
+    height: 170px;
+}
+iframe.adv {
+    margin-top: 10px;
+}
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img.thumbnail {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.521);
+}
